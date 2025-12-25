@@ -1,0 +1,37 @@
+body 
+{
+    margin:0;
+    padding:0;
+    
+}
+
+#title 
+{
+     
+    display: flex;
+    justify-content: center;
+    color:cadetblue;
+    font-size:25px;
+}
+
+#time 
+{
+    display: flex;
+    justify-content: center;
+    color:chocolate;
+    font-size: 80px;
+}
+
+#color
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+#cc
+{
+    margin: 12px;
+    padding: 10px;
+    font-size: 20px;
+}
